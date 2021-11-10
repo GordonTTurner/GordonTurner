@@ -1,5 +1,6 @@
-- 👋 Hi there, I’m Gordon Turner
-- 👀 I’m interested in cybersecurity applications and making the internet a safer place
+# Welcome to my profile!
+- 👋 Hello, I'm Gordon Turner!
+- 👀 At the moment, I’m interested in cybersecurity applications and making the internet a safer place
 - 🌱 I’m currently learning WireShark and Linux and working on my certifications
 - 📫 My email is gt.turner1@cox.net if you would like to reach out to me about anything!
 
