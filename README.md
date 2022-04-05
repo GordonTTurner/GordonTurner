@@ -12,9 +12,9 @@
 * Visualization tools
 
 ## `./contact`
-* 📌 LinkedIn: [Gordon Turner](https://www.linkedin.com/in/GordonTTurner)
+* 📌 LinkedIn: [![Gordon Turner]](https://www.linkedin.com/in/GordonTTurner)
 * 🎧 Discord: gordahn#3143
-* 📧 Email: [gt.turner1@cox.net](mailto:gt.turner1@cox.net?subject=Github Inquiries)
+* 📧 Email: [![gt.turner1@cox.net]](mailto:gt.turner1@cox.net?subject=Github Inquiries)
 
 ## `./collab`
 * If you're interested in collaborating, contact me above!
