@@ -17,10 +17,10 @@
 * 📧 Email: [gt.turner1@cox.net](mailto:gt.turner1@cox.net?subject=Github Inquiries)
 
 ## `./collab`
-* If you are interested in collaborating, contact me above!
+* If you're interested in collaborating, contact me above!
 
 ## `./music`
-This song is the reason that I'm pursuing cybersecurity as a career; such a hauntingly beautiful musical masterpiece.
+This song is the reason that I'm pursuing cybersecurity as a career; it's such a hauntingly beautiful musical masterpiece.
 
 [![Flyweight Love by Vienna Teng](https://i.ytimg.com/vi/S2EIFWseKwU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=\u0026rs=AOn4CLCllrl80MTCp2onF8cjCxhtexEMbA)](https://youtu.be/QF-7WiLykGM)
 <!--
